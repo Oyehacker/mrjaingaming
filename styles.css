@@ -1,0 +1,209 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f5f5f5;
+}
+
+header {
+    text-align: center;
+    padding: 50px 0;
+    background-color: #333;
+    color: #fff;
+}
+
+.about, .impressive-lines, .subscribe {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+button {
+    background-color: #e8491d;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #333;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #333;
+    color: #fff;
+}
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+}
+
+header {
+    text-align: center;
+    padding: 50px 0;
+    background-color: #2c3e50; /* Midnight Blue */
+    color: #ecf0f1; /* Clouds */
+}
+
+.about, .impressive-lines, .subscribe {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #ecf0f1; /* Clouds */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.impressive-lines {
+    background-color: #3498db; /* Belize Hole */
+    color: #ecf0f1; /* Clouds */
+}
+
+button {
+    background-color: #e74c3c; /* Alizarin */
+    color: #ecf0f1; /* Clouds */
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #c0392b; /* Pomegranate */
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #2c3e50; /* Midnight Blue */
+    color: #ecf0f1; /* Clouds */
+}
+/* Add this to the existing CSS */
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background-color: #2c3e50; /* Midnight Blue */
+    color: #ecf0f1; /* Clouds */
+}
+
+.logo {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #ecf0f1; /* Clouds */
+    font-weight: bold;
+}
+
+nav a:hover {
+    color: #3498db; /* Belize Hole */
+}
+/* Add this to the existing CSS */
+
+body {
+    background-image: url(''), url('img.8.jpg'), url('background3.jpg');
+    background-size: cover;
+    background-repeat: repeat;
+    background-attachment: fixed;
+}
+
+header {
+    /* ... existing styles ... */
+    background-color: transparent;
+}
+
+.about, .impressive-lines, .subscribe {
+    /* ... existing styles ... */
+    background-color: rgba(255, 255, 255, 0.8); /* Transparent white background for readability */
+}
+
+.impressive-lines {
+    background-color: rgba(52, 152, 219, 0.8); /* Slightly transparent Belize Hole color */
+    color: #ecf0f1; /* Clouds */
+}
+
+button {
+    /* ... existing styles ... */
+    background-color: rgba(231, 76, 60, 0.8); /* Slightly transparent Alizarin color */
+}
+
+footer {
+    /* ... existing styles ... */
+    background-color: transparent;
+}
+
+
+
+
+/* Add this to the existing CSS */
+
+.youtube-videos {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0.8); /* Transparent white background for readability */
+}
+
+.video-container {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+
+.video-container img {
+    width: 30%;
+}
+
+.bold-theme {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: rgba(52, 73, 94, 0.8); /* Transparent Midnight Blue color */
+    color: #ecf0f1; /* Clouds */
+    text-align: center;
+}
+
+.bold-theme h2 {
+    font-size: 36px;
+    font-weight: bold;
+}
+
+
+
+
+/* Add this to your existing CSS */
+
+.channel-description {
+    max-width: 800px;
+    margin: 40px auto;
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0.8); /* Transparent white background for readability */
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.channel-description h2 {
+    color: #3498db; /* Belize Hole */
+}
+
+.channel-description p {
+    font-size: 16px;
+    line-height: 1.6;
+    color: #2c3e50; /* Midnight Blue */
+}
